@@ -1,5 +1,5 @@
-Login and Registration System
-Overview
+###Login and Registration System
+####Overview
 This C++ project implements a basic login and registration system. It provides functionalities for user registration, login, and password recovery using file handling. The system allows users to register with a username and password, log in to their account, and recover their password if needed.
 
 Features
