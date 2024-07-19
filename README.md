@@ -25,6 +25,10 @@ File Handling: For managing user data through file operations.
 
 
 **********Code**********
+
+
+
+
 The main.cpp file contains the core logic for the login and registration system. It includes:
 
 Functions for displaying messages, registering users, logging in, and recovering passwords.
